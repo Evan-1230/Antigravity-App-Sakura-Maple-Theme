@@ -19,9 +19,6 @@ A dual-theme visual pack (**Sakura 🌸** & **Maple 🍁**) crafted for the **An
   - Translucent gradient sakura or maple branches softly accent the top-right and bottom-left corners of the window.
 - **Syncs with Antigravity Light/Dark Switching**
   - Automatically switches between Sakura and Maple effects whenever the application changes between light and dark modes.
-- **Zero Binary Modification & Fully Open Source**
-  - Never modifies any files inside the official installation directory and does not interfere with Antigravity automatic updates.
-
 ---
 
 ## 📸 Preview
